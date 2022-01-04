@@ -4,6 +4,7 @@ A webcrawler application that crawls sastodeal.com to scrap book name and its pr
 
 ## To save in csv file
 
-``` scrapy crawl data_scrap -o data.csv
+``` 
+scrapy crawl data_scrap -o data.csv
 
 ```
