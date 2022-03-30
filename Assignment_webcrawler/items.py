@@ -10,4 +10,5 @@ class AssignmentWebcrawlerItem(scrapy.Item):
     # define the fields for your item here like:
     item_name = scrapy.Field()
     price = scrapy.Field()
-    
+    author  = scrapy.Field()
+    product_genre = scrapy.Field()
